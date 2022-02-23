@@ -1,0 +1,11 @@
+{
+  "name": "reto3",
+  "version": "1.0.0",
+  "description": "el reto 3 de la sesion 1 de bedu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "carolina",
+  "license": "ISC"
+}
