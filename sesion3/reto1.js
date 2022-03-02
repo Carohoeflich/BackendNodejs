@@ -5,6 +5,7 @@ https.get('https://swapi.dev/api/people', (resp) => {
 
   resp.on('data', (chunk) => {
     data += chunk; //concatenar esa informacion a la var data que estaba vacia
+    Array.prototype.sort();
  });
 
   // La respuesta completa ha sido recibida. Imprime el resultado
